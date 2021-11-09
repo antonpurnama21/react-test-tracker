@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor Appointment",
+      "day": "Nov 9th 2021 at 10:00am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Nov 10th 2021 at 08:00am",
+      "reminder": true
+    },
+    {
+      "text": "New Task",
+      "day": "Nov 10th 2021 at 08:00om",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Task Tracker",
+      "day": "Nov 10th 2021 at 02:00am",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
